@@ -3,4 +3,4 @@
 This is the sample  application for 
 [*One Month Rails: Teach Yourself to Code*] (http://onemonthrails.com)
 
-by [Jeff Angtuaco] (http://www.google.com)
+by [Jeff A] (http://www.google.com)
